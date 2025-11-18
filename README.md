@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # women_in_tech_github_practice
 
 # 📋 CV Portfolio Assignment - Git & GitHub Practice
@@ -113,3 +114,7 @@ By completing this assignment, you will:
 **Good luck, and happy coding! 🚀**
 
 *Remember: The best way to learn is by doing. Take your time, experiment, and don't be afraid to make mistakes!*
+=======
+# women-in-tech-git-practice
+A practice about Git during women in tech program
+>>>>>>> 498883aed05a451b6d274e51ef2f491ff629660f
